@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		digieras
 		contact@digieras.com
 		<br>
-		<a href="mailto:contact@digieras.com">Mail to Mithun Technologies</a>
+		<a href="mailto:contact@digieras.com">Mail to Digieras Technologies</a>
 	</span>
 </div>
 <hr>
