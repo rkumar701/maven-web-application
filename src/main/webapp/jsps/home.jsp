@@ -6,11 +6,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>
 	Technologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/unnamed.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to digieras Technologies Private Limited. Bengaluru,Karnataka,India </h1>
+<h1 align="center">Welcome to digieras Technologies Private Limited. Lucknow,India </h1>
 <h1 align="center"> digieras Technologies- os</h1>
 <hr>
 <br>
@@ -45,7 +45,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>Digieras - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2022 by <a href="http://digieras.com/">DigiEras India</a> </small></p>
 
 </body>
