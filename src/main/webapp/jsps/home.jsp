@@ -36,9 +36,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		digieras
-		devopstrainingblr@gmail.com
+		contact@digieras.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:contact@digieras.com">Mail to Mithun Technologies</a>
 	</span>
 </div>
 <hr>
@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://digieras.com/">DigiEras India</a> </small></p>
 
 </body>
 </html>
