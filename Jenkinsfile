@@ -1,6 +1,5 @@
 pipeline{
 agent any
-  buildName 'desc'
   options {
   buildDiscarder logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '5')
 }
@@ -15,6 +14,7 @@ tools{
 stages{
     stage("checkout"){
         steps{
+          buildName '$desc'
             git 'https://github.com/rkumar701/maven-web-application.git'
         }
     }
