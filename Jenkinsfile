@@ -12,13 +12,6 @@ tools{
     maven "maven1"
 }
 stages{
-    stage("Initialization") {
-            steps {
-                // use name of the patchset as the build name
-                buildName "${GERRIT_CHANGE_SUBJECT}"
-                buildDescription "Executed @ ${NODE_NAME}"
-            }
-        }
     stage("checkout"){
         steps{
             git 'https://github.com/rkumar701/maven-web-application.git'
