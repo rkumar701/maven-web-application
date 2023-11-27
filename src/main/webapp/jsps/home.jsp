@@ -10,7 +10,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to digieras Technologies Private Limited. Lucknow,India </h1>
+<h1 align="center">Welcome to digieras Technologies Pvt. Ltd. Lucknow,India </h1>
 <h1 align="center"> digieras Technologies- os</h1>
 <hr>
 <br>
