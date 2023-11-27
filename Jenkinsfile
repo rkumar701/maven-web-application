@@ -1,5 +1,6 @@
 pipeline{
 agent any
+  buildName 'desc'
   options {
   buildDiscarder logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '5')
 }
